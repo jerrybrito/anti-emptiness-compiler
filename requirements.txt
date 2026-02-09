@@ -1,0 +1,2 @@
+# Requires: potential-deferral
+# (Not available on PyPI)
